@@ -1,0 +1,1 @@
+import{_}from"./router.d69d059c.js";import{_ as t,c as o,b as c,o as n}from"./entry.908a6c74.js";import"./nuxt-link.1b34b6fb.js";const s={},a={class:"institute"};function r(p,d){const e=_;return n(),o("div",a,[c(e)])}const f=t(s,[["render",r],["__scopeId","data-v-e22c66a5"]]);export{f as default};

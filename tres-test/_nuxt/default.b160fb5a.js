@@ -1,0 +1,1 @@
+import{_ as t,c as o,a as c,b as a,o as n,ac as _}from"./entry.908a6c74.js";const s={},r={id:"layout"};function d(l,u){const e=_;return n(),o("div",r,[c("section",null,[a(e)])])}const i=t(s,[["render",d]]);export{i as default};
